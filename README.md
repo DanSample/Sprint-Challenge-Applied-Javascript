@@ -49,6 +49,8 @@ So we can have access to built in array methods.
 
 5. What is a component?
 
+They are reusable pieces of code that can be used to build elements that share similar style and functionality.
+
 ### Git Set up
 
 * [ ] Fork the project into your GitHub user account
