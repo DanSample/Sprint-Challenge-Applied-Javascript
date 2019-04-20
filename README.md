@@ -37,6 +37,8 @@ DOM is an acronym for Document Object Model. It is an object-oriented representa
 
 2. What is an event?
 
+It is the way for users to interact with a webpage.
+
 3. What is an event listener?
 
 4. Why would we convert a NodeList into an Array?
