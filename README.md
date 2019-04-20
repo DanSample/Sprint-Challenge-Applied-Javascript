@@ -41,6 +41,8 @@ It is the way for users to interact with a webpage.
 
 3. What is an event listener?
 
+You can select elements and listen for specific events and fire a callback when a specific event occurs.
+
 4. Why would we convert a NodeList into an Array?
 
 5. What is a component?
