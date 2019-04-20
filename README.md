@@ -45,6 +45,8 @@ You can select elements and listen for specific events and fire a callback when 
 
 4. Why would we convert a NodeList into an Array?
 
+So we can have access to built in array methods.
+
 5. What is a component?
 
 ### Git Set up
