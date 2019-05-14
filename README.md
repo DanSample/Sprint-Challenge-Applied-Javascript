@@ -14,6 +14,7 @@ You have three hours to complete this challenge. Plan your time accordingly.
 
 ## Commits
 
+
 Commit your code regularly and meaningfully. This helps both you (in case you ever need to return to old code for any number of reasons) and your project manager.
 
 ## Description
@@ -32,13 +33,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+DOM is an acronym for Document Object Model. It is an object-oriented representation of a webpage.
+
 2. What is an event?
+
+It is the way for users to interact with a webpage.
 
 3. What is an event listener?
 
+You can select elements and listen for specific events and fire a callback when a specific event occurs.
+
 4. Why would we convert a NodeList into an Array?
 
+So we can have access to built in array methods.
+
 5. What is a component?
+
+They are reusable pieces of code that can be used to build elements that share similar style and functionality.
 
 ### Git Set up
 
